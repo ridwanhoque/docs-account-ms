@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>CoderDocs - Bootstrap 4 Documentation Template For Software Projects</title>
+    <title>
+        <?php include("../partials/_title.php"); ?>
+    </title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -40,24 +42,50 @@
 
 			    <article class="docs-article" id="section-3">
 				    <header class="docs-header">
-					    <h1 class="docs-heading">APIs</h1>
+					    <h1 class="docs-heading">Basic Configuration</h1>
 					    <section class="docs-intro">
-						    <p>Section intro goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque finibus condimentum nisl id vulputate. Praesent aliquet varius eros interdum suscipit. Donec eu purus sed nibh convallis bibendum quis vitae turpis. Duis vestibulum diam lorem, vitae dapibus nibh facilisis a. Fusce in malesuada odio.</p>
+						    <p>
+                                Here you can set up basic configurtaion
+                            </p>
 						</section><!--//docs-intro-->
 				    </header>
 				     <section class="docs-section" id="item-3-1">
-						<h2 class="section-heading">Section Item 3.1</h2>
-						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
+						<h2 class="section-heading">3.1: Chart of Accounts</h2>
+						<p>
+                            <img src="../assets/img/basic-configs/1.png" alt="" srcset="">
+                            <ul>
+                                <li>Parent </li>
+                                <li>Type</li>
+                                <li>Category</li>
+                                <li>Head Name</li>
+                                <li>Opening Balance</li>
+                            </ul>    
+                        </p>
 					</section><!--//section-->
 
 					<section class="docs-section" id="item-3-2">
-						<h2 class="section-heading">Section Item 3.2</h2>
-						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
+						<h2 class="section-heading">3.2: Account information</h2>
+						<p>
+                            <img src="../assets/img/basic-configs/2.png" alt="" srcset="">
+                            <ul>
+                                <li>Account Name</li>
+                                <li>Account Number</li>
+                                <li>Branch Name</li>
+                                <li>Status</li>
+                            </ul>
+                        </p>
 					</section><!--//section-->
 
 					<section class="docs-section" id="item-3-3">
-						<h2 class="section-heading">Section Item 3.3</h2>
-						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
+						<h2 class="section-heading">3.3: Payment Method</h2>
+						<p>
+                            <img src="../assets/img/basic-configs/3.png" alt="" srcset="">
+                            <ul>
+                                <li>Account Name</li>
+                                <li>Method Name</li>
+                                <li>Status</li>
+                            </ul>
+                        </p>
 					</section><!--//section-->
 			    </article><!--//docs-article-->
 

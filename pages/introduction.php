@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>CoderDocs - Bootstrap 4 Documentation Template For Software Projects</title>
+	<title>
+        <?php include("../partials/_title.php"); ?>
+    </title>
 
     <!-- Meta -->
     <meta charset="utf-8">

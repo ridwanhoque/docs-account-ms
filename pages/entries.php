@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>CoderDocs - Bootstrap 4 Documentation Template For Software Projects</title>
+    <title>
+        <?php include("../partials/_title.php"); ?>
+    </title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -40,25 +42,119 @@
 
 			    <article class="docs-article" id="section-4">
 				    <header class="docs-header">
-					    <h1 class="docs-heading">Intergrations</h1>
+					    <h1 class="docs-heading">Entry Screens</h1>
 					    <section class="docs-intro">
-						    <p>Section intro goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque finibus condimentum nisl id vulputate. Praesent aliquet varius eros interdum suscipit. Donec eu purus sed nibh convallis bibendum quis vitae turpis. Duis vestibulum diam lorem, vitae dapibus nibh facilisis a. Fusce in malesuada odio.</p>
+						    <p>
+                                Main part of the app where you can input data.
+                            </p>
 						</section><!--//docs-intro-->
 				    </header>
 				     <section class="docs-section" id="item-4-1">
-						<h2 class="section-heading">Section Item 4.1</h2>
-						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
+						<h2 class="section-heading">4.1: Assets</h2>
+						<p>
+                            <img src="../assets/img/entries/1.png" alt="" srcset="">
+                            <ul>
+                                <li>Date</li>
+                                <li>Supplier</li>
+                                <li>Reference</li>
+                                <li>Asset Head</li>
+                                <li>Amount</li>
+                                <li>Years</li>
+                                <li>Account Information</li>
+                                <li>Payment Methods</li>
+                                <li>Note</li>
+                            </ul>
+                        </p>
 					</section><!--//section-->
 
 					<section class="docs-section" id="item-4-2">
-						<h2 class="section-heading">Section Item 4.2</h2>
-						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
+						<h2 class="section-heading">4.2: Payment Vouchers</h2>
+						<p>
+                            <img src="../assets/img/entries/2.png" alt="" srcset="">
+                            <ul>
+                                <li>Date</li>
+                                <li>Reference</li>
+                                <li>Note</li>
+                                <h4>Credit part</h4>
+                                <li>Chart of Account</li>
+                                <li>Balance</li>
+                                <li>Description</li>
+                                <li>Credit</li>
+                                <h4>Debit part</h4>
+                                <li>Chart of Account</li>
+                                <li>Balance</li>
+                                <li>Description</li>
+                                <li>Debit</li>
+                            </ul>
+                        </p>
 					</section><!--//section-->
 
-					<section class="docs-section" id="item-4-3">
-						<h2 class="section-heading">Section Item 4.3</h2>
-						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
+                    <section class="docs-section" id="item-4-3">
+						<h2 class="section-heading">4.3: Receive Vouchers</h2>
+						<p>
+                            <img src="../assets/img/entries/3.png" alt="" srcset="">
+                            <ul>
+                                <li>Date</li>
+                                <li>Reference</li>
+                                <li>Note</li>
+                                <h4>Credit part</h4>
+                                <li>Chart of Account</li>
+                                <li>Balance</li>
+                                <li>Description</li>
+                                <li>Credit</li>
+                                <h4>Debit part</h4>
+                                <li>Chart of Account</li>
+                                <li>Balance</li>
+                                <li>Description</li>
+                                <li>Debit</li>
+                            </ul>
+                        </p>
 					</section><!--//section-->
+
+					<section class="docs-section" id="item-4-4">
+						<h2 class="section-heading">4.4: Journal Vouchers</h2>
+						<p>
+                            <img src="../assets/img/entries/4.png" alt="" srcset="">
+                            <ul>
+                                <li>Date</li>
+                                <li>Reference</li>
+                                <li>Note</li>
+                                <h4>Credit part</h4>
+                                <li>Chart of Account</li>
+                                <li>Balance</li>
+                                <li>Description</li>
+                                <li>Credit</li>
+                                <h4>Debit part</h4>
+                                <li>Chart of Account</li>
+                                <li>Balance</li>
+                                <li>Description</li>
+                                <li>Debit</li>
+                            </ul>
+                        </p>
+					</section><!--//section-->
+
+                    <section class="docs-section" id="item-4-5">
+						<h2 class="section-heading">4.5: Contra Vouchers</h2>
+						<p>
+                            <img src="../assets/img/entries/5.png" alt="" srcset="">
+                            <ul>
+                                <li>Date</li>
+                                <li>Reference</li>
+                                <li>Note</li>
+                                <h4>Credit part</h4>
+                                <li>Chart of Account</li>
+                                <li>Balance</li>
+                                <li>Description</li>
+                                <li>Credit</li>
+                                <h4>Debit part</h4>
+                                <li>Chart of Account</li>
+                                <li>Balance</li>
+                                <li>Description</li>
+                                <li>Debit</li>
+                            </ul>
+                        </p>
+					</section><!--//section-->
+
 			    </article><!--//docs-article-->
 
 
