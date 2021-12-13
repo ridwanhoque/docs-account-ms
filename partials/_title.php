@@ -1,3 +1,3 @@
 <?php
-echo "Accounts MS";
+echo "Accounts MS Documentation";
 ?>

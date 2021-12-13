@@ -4,7 +4,7 @@
             <div class="container-fluid position-relative py-2">
                 <div class="docs-logo-wrapper">
                     <div class="site-logo">
-                        <a class="navbar-brand" href="../index.php"><img class="logo-icon me-2" src="../assets/images/coderdocs-logo.svg" alt="logo"><span class="logo-text">Coder<span class="text-alt">Docs</span></span>
+                        <a class="navbar-brand" href="../index.php"><img class="logo-icon me-2" src="../assets/images/coderdocs-logo.svg" alt="logo"><span class="logo-text">Account MS<span class="text-alt">Docs</span></span>
                         </a>
                     </div>
                 </div>
