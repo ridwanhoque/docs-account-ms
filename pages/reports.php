@@ -42,24 +42,46 @@
 
 			    <article class="docs-article" id="section-5">
 				    <header class="docs-header">
-					    <h1 class="docs-heading">Utilities</h1>
+					    <h1 class="docs-heading">Reports</h1>
 					    <section class="docs-intro">
-						    <p>Section intro goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque finibus condimentum nisl id vulputate. Praesent aliquet varius eros interdum suscipit. Donec eu purus sed nibh convallis bibendum quis vitae turpis. Duis vestibulum diam lorem, vitae dapibus nibh facilisis a. Fusce in malesuada odio.</p>
+						    <p>Check the reports here</p>
 						</section><!--//docs-intro-->
 				    </header>
 				     <section class="docs-section" id="item-5-1">
-						<h2 class="section-heading">Section Item 5.1</h2>
-						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
+						<h2 class="section-heading">5.1 Accounts Dashboard</h2>
+						<p>
+                            <img src="../assets/img/reports/accounts-dashboard.png" alt="" srcset="">
+                        </p>
 					</section><!--//section-->
 
 					<section class="docs-section" id="item-5-2">
-						<h2 class="section-heading">Section Item 5.2</h2>
-						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
+						<h2 class="section-heading">5.2 Accounts Recievable</h2>
+						<p>
+                            <img src="../assets/img/reports/receivable.png" alt="" srcset="">
+                        </p>
 					</section><!--//section-->
 
 					<section class="docs-section" id="item-5-3">
-							<h2 class="section-heading">Section Item 5.3</h2>
-						<p>Vivamus efficitur fringilla ullamcorper. Cras condimentum condimentum mauris, vitae facilisis leo. Aliquam sagittis purus nisi, at commodo augue convallis id. Sed interdum turpis quis felis bibendum imperdiet. Mauris pellentesque urna eu leo gravida iaculis. In fringilla odio in felis ultricies porttitor. Donec at purus libero. Vestibulum libero orci, commodo nec arcu sit amet, commodo sollicitudin est. Vestibulum ultricies malesuada tempor.</p>
+							<h2 class="section-heading">5.3 Accounts Payable</h2>
+						<p>
+                            <img src="../assets/img/reports/payable.png" alt="" srcset="">
+                        </p>
+					</section><!--//section-->
+
+                    
+					<section class="docs-section" id="item-5-4">
+							<h2 class="section-heading">5.4 Trial Balance</h2>
+						<p>
+                            <img src="../assets/img/reports/trial-balance.png" alt="" srcset="">
+                        </p>
+					</section><!--//section-->
+
+                    
+					<section class="docs-section" id="item-5-5">
+							<h2 class="section-heading">5.5 Ledger Balance</h2>
+						<p>
+                            <img src="../assets/img/reports/ledger-balance-report.png" alt="" srcset="">
+                        </p>
 					</section><!--//section-->
 			    </article><!--//docs-article-->
 

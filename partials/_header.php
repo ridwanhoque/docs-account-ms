@@ -18,7 +18,7 @@
                         <li class="list-inline-item"><a href="#"><i class="fab fa-product-hunt fa-fw"></i></a></li>
                     </ul>
                     <!--//social-list-->
-                    <a href="#" class="btn btn-primary d-none d-lg-flex">Download</a>
+                    <!-- <a href="#" class="btn btn-primary d-none d-lg-flex">Download</a> -->
                 </div>
                 <!--//docs-top-utilities-->
             </div>
